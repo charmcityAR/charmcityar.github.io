@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Charm City AR Welcome
-author:     Charm City AR
+title:      CharmCityAR Award Announcement
+author:     CharmCityAR
 tags: 		Post
-subtitle:  	Artist-in-Residence Announcement June 2017
+subtitle:  	Artist-in-Residence PK for June 2017
 category:   CharmCityAR
 ---
 
