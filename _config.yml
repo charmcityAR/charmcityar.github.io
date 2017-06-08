@@ -1,7 +1,7 @@
 # Site settings
-title: Host Home
-description: "Home Away From Home"
-url: "https://hosthome.github.io/"
+title: CharmCityAR
+description: "Baltimore City Artist Residency"
+url: "https://charmcityar.github.io/"
 
 
 # Secondary Parameters
@@ -11,10 +11,10 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  hosthome
-project_repository: hosthome.github.io
-disqus_shortname: hosthome
-g-analytics: UA-100680504-1
+github_username:  CharmCityAR
+project_repository: CharmCityAR.github.io
+disqus_shortname: 
+g-analytics: 
 altmetric: true
 
 # Build settings
