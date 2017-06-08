@@ -16,7 +16,7 @@
 title: CharmCityAR
 email: charmcityar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  CharmCityAR is an artist residency that is awarded to an artist in Baltimore City. 
+  CharmCityAR is an short-term artist residency in Baltimore City. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charmcityar.github.io" # the base hostname & protocol for your site
 github_username:    CharmCityAR
