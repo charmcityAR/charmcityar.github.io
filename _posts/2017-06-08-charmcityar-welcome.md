@@ -13,6 +13,8 @@ The CharmCityAR is a unique opportunity for solitude for artists of any kind in 
 
 This marks the first round of the CharmCityAR ever! 
 
-CharmCityAR is excited to announce that PK is the chosen artist-in-residence for June 9th until 19th. They will enjoy complete solitude, pool access, gym access, and lounge access in the building where the residency takes place, in addition to the basics so that they can complete art undisturbed. With a full kitchen, free laundry machines, and shower, CharmCityAR is equipped to make even the basics easy for creatives. All in one place, the CharmCityAR is a true retreat within Baltimore City. 
+CharmCityAR is excited to announce that PK is the chosen artist-in-residence for June 9th until 19th. They will enjoy complete solitude, pool access, gym access, and lounge access in the building where the residency takes place, in addition to the basics so that they can complete art undisturbed. 
+
+With a full kitchen, laundry machines, and shower, CharmCityAR is equipped to make even the basics easy for creatives. All in one place, the CharmCityAR is a true retreat within Baltimore City. 
 
 It's our pleasure to host PK!
