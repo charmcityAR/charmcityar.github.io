@@ -3,7 +3,7 @@ layout:     post
 title:      CharmCityAR Award Announcement
 author:     CharmCityAR
 tags: 		Post
-subtitle:  	Artist-in-Residence PK for June 2017
+subtitle:  	Artist-in-Residence PK
 category:   CharmCityAR
 ---
 
