@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CharmCityAR Award Announcement"
+title:  "Award Announcement"
 date:   2017-06-08 11:52:11 +0100
 ---
 
