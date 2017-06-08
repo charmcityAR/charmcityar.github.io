@@ -1,10 +1,7 @@
 ---
-layout:     post
-title:      CharmCityAR Award Announcement
-author:     CharmCityAR
-tags: 		Post
-subtitle:  	Artist-in-Residence PK
-category:   CharmCityAR
+layout: post
+title:  "CharmCityAR Award Announcement"
+date:   2017-06-08 11:52:11 +0100
 ---
 
 Welcome to the Charm City Artist Residency! 
