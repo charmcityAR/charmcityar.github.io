@@ -1,26 +1,31 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>HostHome</title>
-	<link href="css/style.css" rel="stylesheet" type="text/css">  
-	</head>
+---
+layout: default
+---
 
-  <body>
-	<video playsinline autoplay muted loop poster="hosthome.jpg" id="bgvid">
-	    <source src="./videos/hosthome.webm" type="video/webm">
-	    <source src="./videos/hosthome.mp4" type="video/mp4">
-	</video>
+<div class="home">
 
-    <div class = "navbar">
-    <p>HH Logo</p>
-    </div>
-	<div class="main">
-	  <div class="container">
-	    <h1>Welcome to HostHome!</h1>
-	    <p><em>A Home Away From Home</em></p>
-	    <button>Donate!</button>
-	  </div>
-	</div>
-</html>
-  </body>
-</html>
+	<ul class="post-list">
+		{% for post in site.posts %}
+		<li>
+			<article>
+				<header class="post-header">
+					<div>
+						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+					</div>
+
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</header>
+
+				<div class="entry-content">
+					{{ post.content }}
+				</div>
+			</article>
+		</li>
+		{% endfor %}
+	</ul>
+
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
