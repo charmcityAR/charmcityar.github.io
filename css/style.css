@@ -1,0 +1,36 @@
+.navbar{
+	float:left;
+	margin-top:-19%;
+	margin-left:1%;
+    color:white;
+
+}
+.container{
+	margin-top:20%;
+	text-align:center;
+    color:white;
+    font-size:2em;
+    text-shadow:2px #404040;
+}
+
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(hosthome.jpg) no-repeat;
+    background-size: cover; 
+}
+
+button{
+    padding:10px;
+    border-radius:30%;
+}
