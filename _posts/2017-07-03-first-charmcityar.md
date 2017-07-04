@@ -6,7 +6,7 @@ date:   2017-07-03 20:00:11 +0100
 
 CharmCityAR is proud to announce the art that was completed and in progress by our artist-in-residence for June 2017, PK. 
 
-![image-1][img/1.png]<br>
+![image-1][../assets/WORK IN PROGRESS beachy color ideas.png]<br>
 ![image-2][img/2.png]<br>
 ![image-3][img/3.png]<br>
 
