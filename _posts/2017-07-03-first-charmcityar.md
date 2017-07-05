@@ -8,9 +8,7 @@ CharmCityAR is proud to announce the art that was completed and in progress by o
 
 ![image-1]({{ site.url }}/assets/WORK IN PROGRESS beachy color ideas.png)<br>
 ![image-2]({{ site.url }}/assets/dogger jpegggery.jpg)<br>
-![image-3]({{ site.url }}/assets/doggo bg 33333555.png)<br>
-![image-4]({{ site.url }}/assets/shibari ms paint-face500002.png)<br>
-![image-4]({{ site.url }}/assets/shibari ms paint-face50000jpgg.jpg)<br>
+![image-3]({{ site.url }}/assets/shibari ms paint-face500002.png)<br>
 
 Portfolio: <a href="https://uhpk.portfoliobox.net">https://uhpk.portfoliobox.net</a><br>
 Instagram: <a href="https://www.instagram.com/uhpkkim">@uhpkkim</a><br>
